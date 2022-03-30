@@ -32,4 +32,4 @@ If it shows the following page, you are not currently in the Master Payer Accoun
 
 ![service](/images/services.png)
 
-Please let your DoIT Contact know what all services show as "Access Enabled"
+Scroll through the page and let your DoIT Contact know what all services show as "Access Enabled"
