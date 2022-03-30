@@ -10,6 +10,8 @@ If you have mulitple AWS Accounts, perform following actions in the Master Payer
 
 [https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings)
 
+![org](/images/org.png)    
+    
 Please let your DoiT Contact know what it says under the "Feature Set". It may one of the following
 
 a) Consolidated Features Only
@@ -17,22 +19,17 @@ a) Consolidated Features Only
 b) Your organization has all features enabled
 
 If it says "Consolidated Features Only", you may skip the next step  
-  
-![org](images/org)    
-    
+   
+If it shows the following page, you are not currently in the Master Payer Account
+
+![nopayer](/images/nopayer.png)    
+   
+
 
 ### Step 2 - Load this URL in your browser
 
 [https://us-east-1.console.aws.amazon.com/organizations/v2/home/services](https://us-east-1.console.aws.amazon.com/organizations/v2/home/services)
 
-![service](images/services)
+![service](/images/services.png)
 
-Please let your DoIT Contact know what all services show "Access Enabled"
-
-
-
-
-
-
-
-
+Please let your DoIT Contact know what all services show as "Access Enabled"
