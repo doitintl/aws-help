@@ -1,3 +1,3 @@
 # AWS Help Documentation
 
-Collection of Help Documents for AWS Customers
+Collection of Help Documents for DoiT AWS Customers

@@ -1,35 +1,34 @@
 # What Organization-level features are you using in AWS?
 
+You may have one or multiple AWS accounts.
 
-You may have a single AWS Account or multiple AWS Accounts.
+ - If you have mulitple AWS accounts, perform following actions in the [payer/management account](Payer-And-Member-Accounts.md). 
+ - If you have multiple payer/management accounts, preform these actions in all payer/management accounts. 
+ - If you do not have access to your payer/management account or it belongs to a different business entity or company, let your DoIT contact know.
 
-If you have mulitple AWS Accounts, perform following actions in the Master Payer Account (The account from where you are paying the AWS invoices). If you don't have access to your Master Payer Account or it belongs to a different business entity or company, let your DoIT contact know.
+<br/><br/>
 
-
-### Step 1 - Load this URL in your browser, login as an admin IAM user
-
-[https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings)
+After logging into AWS Console, load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings). You will see something like following.
 
 ![org](/images/org.png)    
-    
-Please let your DoiT Contact know what it says under the "Feature Set". It may one of the following
+<br/><br/>
 
-a) Consolidated Features Only
+Under Feature Set, it will display one of the following
 
-b) Your organization has all features enabled
-
-If it says "Consolidated Features Only", you may skip the next step  
+a) Consolidated Features Only   
+*This means you are not using any Organiational-level features. You can skip next step if this is the case.*
    
-If it shows the following page, you are not currently in the Master Payer Account
+b) Your organization has all features enabled   
+*This means you could be potentially using some Organiational-level features. Follow next step to find which services are being used*
 
+<br/><br/>
+If it shows the following page, you are not currently in the payer account   
+<br/>
 ![nopayer](/images/nopayer.png)    
-   
+<br/><br/><br/><br/>
 
-
-### Step 2 - Load this URL in your browser
-
-[https://us-east-1.console.aws.amazon.com/organizations/v2/home/services](https://us-east-1.console.aws.amazon.com/organizations/v2/home/services)
-
+If your Organization has all features enabled, navigate to this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/services).
+<br/><br/>
 ![service](/images/services.png)
 
-Scroll through the page and let your DoIT Contact know what all services show as "Access Enabled"
+Scroll through the page and take a note of features that has "Access enabled".
