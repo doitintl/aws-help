@@ -41,7 +41,7 @@ Going forward, you will get Cost and Usage Report in the bucket you configured. 
 # How do I get reports for past dates?
 
 
-After 24 hours have passed, you will have the first Cost and Usage Report in your S3 bucket. But, this will only for the current date onwards. AWS can backfill this for past dates, but you need to file a Support Ticket. Please peform following steps.
+After 24 hours have passed, you will have the first Cost and Usage Report in your S3 bucket. But, this will be for the current date onwards. AWS can backfill this for past dates, but you need to file a Support Ticket. Please peform following steps.
 
 
 In AWS Console, navigate to the [Support Page](https://us-east-1.console.aws.amazon.com/support/home), click on "Create Case", Select the following options.
