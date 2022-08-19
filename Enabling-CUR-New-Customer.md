@@ -1,9 +1,9 @@
 
 # How do I enable Cost and Usage Report for my AWS Accounts? 
 
-As a best pratice, we recommend you enable Cost and Usage Report in your AWS Accounts. This will ensure that you have a copy of your comprehensive AWS usage data. Please note though you can enable this report free of charge, you will be paying standard S3 storage rates for the bucket that holds this data.
+As a best pratice, we recommend you enable Cost and Usage Report in your AWS Accounts. This will ensure that you have a copy of your comprehensive AWS usage data. Though there is no additional charge for enabling this report; you will be paying standard S3 storage rates for the bucket that holds this data.
 
-You can use any name for the bucket, report name and prefix path. DoiT prefers following values. If you are instructed by your DoiT contact to use specific values, please use those.
+You can use any name for the bucket, report name and prefix path. DoiT prefers the following values. If you are instructed by your DoiT contact to use specific values, please use those.
 
 >Bucket Name: [YOUR_COMPANY_NAME]-aws-billing (*If you get an error message stating bucket name already exists, add a "-1" suffix to the name*) <br/>
 >Report Name: aws-usage-report  <br/>
