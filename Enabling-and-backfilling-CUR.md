@@ -58,7 +58,7 @@ In the next page,  Use "CUR file backfilling" for the subject and following text
     I've just recently enabled CUR files in my account. Can you please have this backfilled for previous dates?
     
     
-    report name: aws-usage
+    report name: aws-usage-report
     dates: YYYY/MM - YYYY/MM
 
 
