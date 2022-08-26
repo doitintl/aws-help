@@ -49,15 +49,18 @@ In AWS Console, navigate to the [Support Page](https://us-east-1.console.aws.ama
 ![ticket-1](images/ticket-1.png)
 <br/><br/><br/>
 
-In the next page,  Use "CUR file backfilling" for the subject and following text for description. You can ask for more history, if needed. We recommend you do not ask for more than 36 months of report backfilling.
+In the next page,  Use "CUR file backfilling" for the subject and following text for description. You should mention the beginning date and end dates for the backfill. Mention current month as the end date.
 <br/>
-
-
 
 
     Hello,
     
-    I've just recently enabled CUR files in my account. Can you please have this backfilled for previous dates (going back to 12 months)?
+    I've just recently enabled CUR files in my account. Can you please have this backfilled for previous dates?
+    
+    
+    report name: aws-usage
+    dates: YYYY/MM - YYYY/MM
+
 
     Thanks in advance.
 
