@@ -5,7 +5,7 @@ As a best pratice, we recommend you enable Cost and Usage Report in your AWS Acc
 
 You have to perform these steps on the [payer/management account](Payer-And-Member-Accounts.md) using the root user or an IAM user with Admin and Billing privileges.
 
-Please see these [instructions](Is-CUR-enabled.md) to see whether they are already enabled.
+Please follow these [instructions](Is-CUR-enabled.md) to see whether they are already enabled.
 
 You can use any name for the bucket, report name and prefix path. DoiT prefers the following values. If you are instructed by your DoiT contact to use other values, please use those.
 
@@ -60,7 +60,7 @@ In AWS Console, navigate to the [Support Page](https://us-east-1.console.aws.ama
 ![ticket-1](images/ticket-1.png)
 <br/><br/><br/>
 
-In the next page,  Use "CUR file backfilling" for the subject and following text for description. You should mention the beginning date and end dates for the backfill. Mention previous month as the end date. The beginning date can be a month and year three years prior to the previous month.
+In the next page,  Use "CUR file backfilling" for the subject and following text for description. You should mention the beginning date and end dates for the backfill. Mention previous month as the end date. The beginning date can be a month/year three years prior to the previous month.
 
 <br/>
 
