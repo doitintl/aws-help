@@ -9,4 +9,4 @@ If you have CUR configured, you should see entries similar to this
 ![root-user](/images/cur-entries.png)  
 <br/><br/>
 
-If you do not see any entries under "AWS Cost and Usage Reports", you do not have it configured currently. Refer this [page](Enabling-and-backfilling-CUR.md) on how to configure it.
+If you do not see any entries under "AWS Cost and Usage Reports", you do not have it configured currently. 
