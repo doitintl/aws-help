@@ -16,10 +16,10 @@ After logging into AWS Console, load this [page](https://us-east-1.console.aws.a
 Under Feature Set, it will display one of the following
 
 a) Consolidated Features Only   
-*This means you are not using any Organiational-level features. You can skip next step if this is the case.*
+*This means you are not using any Organization-level features. You can skip next step if this is the case.*
    
 b) Your organization has all features enabled   
-*This means you could be potentially using some Organiational-level features. Follow next step to find which services are being used*
+*This means you could be potentially using some Organziation-level features. Follow next step to find which services are being used*
 
 <br/><br/>
 If it shows the following page, you are not currently in the payer account   
