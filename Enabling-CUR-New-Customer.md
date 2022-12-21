@@ -78,5 +78,19 @@ In the next page,  Use "CUR file backfilling" for the subject and following text
 
 In the next page, you can select any of the options for "contact us". We recommend you click "Web" and add your DoiT contacts in the "Additional Contacts" field. AWS Support Team will get back to you with in 12 hours. Backfilling process usually takes a few days.
 
+<br/><br/><br/>
+# How do I verify reports for the past dates are filled?
 
+You can verify this in AWS Console, by browsing to [S3](https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1) and clicking on the bucket-name you gave while following above steps. The bucket name we recommended above was [YOUR_COMPANY_NAME]-aws-billing
+
+You should see a folder called "report" and inside that you will see a folder called "aws-usage-report". Browse to that folder and you should see a folder for each month the report is backfilled for.
+
+
+![reports](images/backfilled-reports.png)
+<br/><br/><br/>
+
+If the folders are there, the report files should be present. But, if you would like to see the actual report files, you can pick a folder for a month and click on it. Within the month folders, there will be a subfolders with an id. This is the manifest-id of the report and there can be mulitple versions of report for a month. Inside these folders, you will find the actual report data in .gz format.
+
+![report-contents](images/report-data.png)
+<br/><br/><br/>
 
