@@ -1,3 +1,21 @@
+# Am I using AWS Organizations?
+
+## If you have multiple AWS Accounts and is currently paying your AWS Invoice for all those accounts via one account, you are currently using Organization.
+
+## If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Orgs. Please reach out to your DoiT contact to setup a review.
+
+## If you have only one AWS Account, follow these steps in that account.
+
+
+
+
+
+
+
+
+
+
+
 # What Organization-level features are you using in AWS?
 
 You may have one or multiple AWS accounts.
