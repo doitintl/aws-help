@@ -1,8 +1,8 @@
 # Am I using AWS Organizations?
 
-**If you have multiple AWS Accounts and is currently paying your AWS Invoice for all those accounts via one account, you are currently using Organization.**
+**If you have multiple AWS Accounts and are currently paying your AWS Invoice for all those accounts via one account, you are currently using Organizations.**
 
-**If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Orgs. Please reach out to your DoiT contact to setup a review.**
+**If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Organizations. Please reach out to your DoiT contact to setup a review.**
 
 **If you have only one AWS Account, follow these steps in that account.**
 
@@ -21,7 +21,7 @@ If it shows a page similar to following, you are using Organizations.
 
 # What Organization-level features are you using in AWS?
 
-After logging into the [payer/management account](Payer-And-Member-Accounts.md), load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings). You will see something like following.
+After logging into the [payer/management account](Payer-And-Member-Accounts.md), load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings). You will see something like the following.
 
 ![org](/images/org.png)    
 <br/><br/>
