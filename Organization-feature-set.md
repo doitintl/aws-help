@@ -2,7 +2,7 @@
 
 **If you have multiple AWS Accounts and are currently paying your AWS Invoice for all those accounts via one account, you are currently using Organizations.**
 
-**If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Organizations. Please reach out to your DoiT contact to setup a review.**
+**If you have multiple AWS Accounts and are currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Organizations. Please reach out to your DoiT contact to setup a review.**
 
 **If you have only one AWS Account, follow these steps in that account.**
 
