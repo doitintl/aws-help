@@ -6,8 +6,7 @@
 
 **If you have only one AWS Account, follow these steps in that account.**
 
-After logging in as root user, load this [page
-(https://us-east-1.console.aws.amazon.com/organizations/v2/home?region=us-east-1#)
+After logging in as root user, load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home?region=us-east-1#)
 
 
 If it shows a page like this, you are currently not using Organizations
@@ -18,7 +17,7 @@ If it shows a page like this, you are currently not using Organizations
 If it shows a page similar to following, you are using Organizations.
 
 ![org](/images/org-one-account.png)    
-<br/><br/>
+<br/><br/><br/><br/>
 
 # What Organization-level features are you using in AWS?
 
