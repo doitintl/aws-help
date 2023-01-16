@@ -1,32 +1,28 @@
 # Am I using AWS Organizations?
 
-## If you have multiple AWS Accounts and is currently paying your AWS Invoice for all those accounts via one account, you are currently using Organization.
+**If you have multiple AWS Accounts and is currently paying your AWS Invoice for all those accounts via one account, you are currently using Organization.**
 
-## If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Orgs. Please reach out to your DoiT contact to setup a review.
+**If you have multiple AWS Accounts and is currently paying your AWS Invoice(s) via mulitple accounts, you may have a combination of accounts with and without Orgs. Please reach out to your DoiT contact to setup a review.**
 
-## If you have only one AWS Account, follow these steps in that account.
+**If you have only one AWS Account, follow these steps in that account.**
 
-
-
-
-
+After logging in as root user, load this [page
+(https://us-east-1.console.aws.amazon.com/organizations/v2/home?region=us-east-1#)
 
 
+If it shows a page like this, you are currently not using Organizations
 
+![org](/images/no-org.png)    
+<br/><br/>
 
+If it shows a page similar to following, you are using Organizations.
 
+![org](/images/org-one-account.png)    
+<br/><br/>
 
 # What Organization-level features are you using in AWS?
 
-You may have one or multiple AWS accounts.
-
- - If you have mulitple AWS accounts, perform following actions in the [payer/management account](Payer-And-Member-Accounts.md). 
- - If you have multiple payer/management accounts, preform these actions in all payer/management accounts. 
- - If you do not have access to your payer/management account or it belongs to a different business entity or company, let your DoIT contact know.
-
-<br/><br/>
-
-After logging into AWS Console, load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings). You will see something like following.
+After logging into the [payer/management account](Payer-And-Member-Accounts.md), load this [page](https://us-east-1.console.aws.amazon.com/organizations/v2/home/settings). You will see something like following.
 
 ![org](/images/org.png)    
 <br/><br/>
