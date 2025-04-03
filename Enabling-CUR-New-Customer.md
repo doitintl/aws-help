@@ -19,7 +19,7 @@ You can use any name for the bucket, report name and prefix path. DoiT prefers t
 
 After logging into the AWS Console, navigate to this [page](https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/reports) and click on "Create Report".
 
-Make sure you check the setting "Include Resource Ids" and "Automatically Refresh.."
+Make sure you check the setting "Include Resource Ids" and "Automatically Refresh..". Enabling "Spit Cost allocation data" is optional and you may chose to do it if you would like more details in your report for EKS and ECS usage.
 
 ![cur-step-1](images/cur-step-1.png)
 <br/><br/><br/>
@@ -31,11 +31,6 @@ In the next page, we recommend you create a new S3 bucket with proper permission
 You can select the option of "Create a bucket" and input the name and region.
 
 ![cur-step-3](images/cur-step-3.png)
-<br/><br/><br/>
-
-In the next step, you can confirm the recommended policy to the new bucket
-
-![cur-step-4](images/cur-step-4.png)
 <br/><br/><br/>
 
 After pop-up window closes, make sure the other settings are as following.
